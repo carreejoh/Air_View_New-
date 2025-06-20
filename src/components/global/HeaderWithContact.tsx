@@ -34,7 +34,7 @@ const HeaderWithContact: React.FC = () => {
             </div>
             <div className="h-24 flex items-center justify-between px-4 sm:px-6 md:px-8 lg:px-24 xl:px-28 2xl:px-48">
                 <Link to="/" className="">
-                    <img className="" alt="logo" src={clientConfig.logo} />
+                    <img className="h-52" alt="logo" src={clientConfig.logo} />
                 </Link>
                 {/* Desktop nav */}
                 <nav className="hidden md:flex space-x-4">

@@ -288,7 +288,7 @@ function App() {
   const subdomain = getVercelSubdomain(window.location.href);
 
   return (
-    <main className="min-h-screen w-full pt-24  overflow-x-hidden bg-[#171716] text-base-content font-sans">
+    <main className="min-h-screen w-full pt-24  overflow-x-hidden bg-[#171716] text-base-content ">
 
       {/* Header */}
       {componentSelection.header === "default" && <HeaderDefault />}

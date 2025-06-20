@@ -5,84 +5,84 @@
     "primary_color": {
       "included": true,
       "defaultValue": "#C13F41",
-      "customValue": "#C33A1B"
+      "customValue": "#D52226"
     },
     "secondary_color": {
       "included": true,
       "defaultValue": "#000000",
-      "customValue": "#08293A"
+      "customValue": "#D52226"
     },
     "font": {
       "included": true,
       "defaultValue": "comic sans ms",
-      "customValue": "Segoe UI Regular"
+      "customValue": "LemonMilk"
     }
   },
   "branding": {
     "logo": {
-      "included": true,
+      "included": false,
       "defaultValue": "/brand_imgs/logo.png",
       "customValue": "https://upcdn.io/FW25bUs/image/uploads/2025/06/15/Holley_s Service and Auto Repair logo-71Az.PNG.crop"
     },
     "short_name": {
       "included": true,
       "defaultValue": "168 Auto Repair",
-      "customValue": "Holley's Service"
+      "customValue": "Air View"
     },
     "long_name": {
       "included": true,
       "defaultValue": "168 Auto Repair LLC",
-      "customValue": "Holley's Service and Auto Repair"
+      "customValue": "Air View Auto Repair"
     }
   },
   "contact": {
     "phone": {
       "included": true,
       "defaultValue": "(801) 731-2311",
-      "customValue": "(801) 731-2311"
+      "customValue": "(801) 484-5807"
     },
     "phoneLink": {
       "included": true,
       "defaultValue": "8019068168",
-      "customValue": "8017312311"
+      "customValue": "8014845807"
     },
     "email": {
-      "included": false,
+      "included": true,
       "defaultValue": "168_Auto_Repair@gmail.com",
-      "customValue": "",
-      "semiCustomValue": "Holley_s_Service@gmail.com"
+      "customValue": "Air_View_Service@gmail.com",
+      "semiCustomValue": "Air_View_Service@gmail.com"
     }
   },
   "location": {
     "address": {
       "included": true,
       "defaultValue": "1900 S 1900 W",
-      "customValue": "1900 S 1900 W"
+      "customValue": "1646 1100 E"
     },
     "addressSecondary": {
       "included": true,
       "defaultValue": "Ogden, UT 84401",
-      "customValue": "Ogden, UT 84401"
+      "customValue": "Salt Lake City, UT 84105"
     },
     "addressFull": {
       "included": true,
       "defaultValue": "61 2100 S, South Salt Lake, UT 84115",
-      "customValue": "1900 S 1900 W, Ogden, UT 84401"
+      "customValue": "1646 1100 E, Salt Lake City, UT 84105"
     },
     "googleMapEmbedLink": {
-      "included": false,
+      "included": true,
       "defaultValue": "https://www.google.com/maps/embed?...168%20Auto%20Repair",
-      "customValue": ""
+      "customValue": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d755.821621885893!2d-111.86031125507755!3d40.73372121299912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87528aa90af8fe5f%3A0x7a30e9e0f20dc97c!2sAir%20View%20Service%20Inc.!5e0!3m2!1sen!2sus!4v1749170511761!5m2!1sen!2sus"
     },
     "googleMapLink": {
-      "included": false,
+      "included": true,
       "defaultValue": "https://www.google.com/maps/place/168+Auto+Repair...",
-      "customValue": ""
+      "customValue": "https://www.google.com/maps/place/Air+View+Service+Inc./@40.7337212,-111.8603113,19z/data=!4m14!1m7!3m6!1s0x87528aa90af8fe5f:0x7a30e9e0f20dc97c!2sAir+View+Service+Inc.!8m2!3d40.7336858!4d-111.8598981!16s%2Fg%2F1td1dx36!3m5!1s0x87528aa90af8fe5f:0x7a30e9e0f20dc97c!8m2!3d40.7336858!4d-111.8598981!16s%2Fg%2F1td1dx36?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D"
     },
     "appleMapLink": {
-      "included": false,
+      "included": true,
       "defaultValue": "https://maps.apple.com/?address=168%20W%20Gregson...",
-      "customValue": ""
+      "customValue": "https://maps.apple.com/place?address=Air%20View%20Service%20Inc.%2C%2040.7336858%2C-111.8598981&name=Air%20View%20Service%20Inc."
     }
   },
   "hours": {
@@ -120,23 +120,23 @@
     "customValue": [
       {
         "day": "Monday",
-        "time": "8:00 AM - 5:00 PM"
+        "time": "8:00 AM - 7:00 PM"
       },
       {
         "day": "Tuesday",
-        "time": "8:00 AM - 5:00 PM"
+        "time": "8:00 AM - 7:00 PM"
       },
       {
         "day": "Wednesday",
-        "time": "8:00 AM - 5:00 PM"
+        "time": "8:00 AM - 7:00 PM"
       },
       {
         "day": "Thursday",
-        "time": "8:00 AM - 5:00 PM"
+        "time": "8:00 AM - 7:00 PM"
       },
       {
         "day": "Friday",
-        "time": "8:00 AM - 5:00 PM"
+        "time": "8:00 AM - 7:00 PM"
       },
       {
         "day": "Saturday",
@@ -150,17 +150,17 @@
   },
   "landing": {
     "image": {
-      "included": true,
+      "included": false,
       "defaultValue": "/brand_imgs/hero.png",
       "customValue": "https://upcdn.io/FW25bUs/raw/uploads/2025/06/15/Holley_s%20Service%20and%20Auto%20Repair%203-2aJR.PNG"
     },
     "title": {
-      "included": true,
+      "included": false,
       "defaultValue": "Quality Service at Record Speeds",
       "customValue": "Let's get your car back on the road!"
     },
     "subtext": {
-      "included": true,
+      "included": false,
       "defaultValue": "Honest, skilled mechanics serving Salt Lake City and beyond. We keep you running smoothly.",
       "customValue": "Holley's Service and Auto Repair has been providing vehicle maintenance and repairs to the Ogden community since 1961. "
     },
